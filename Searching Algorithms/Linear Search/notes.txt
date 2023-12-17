@@ -1,0 +1,4 @@
+1. Start from first element (index 0)
+2. Check if arr[index] is equal to the key
+3. If arr[index] is equal to the key, return the index. Otherwise, if arr[index] is not equal to the key, increment the index.
+4. If the array has been completely-indexed through, then the element does not exist in the array.
